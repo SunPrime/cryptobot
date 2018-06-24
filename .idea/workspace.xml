@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6acc8e73-4a47-4f2e-9bd2-a1e74842c7fa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/pkg_resources/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools-39.0.1.dist-info/zip-safe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/command/easy_install.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/dist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/monkey.py" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/monkey.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/pep425tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/pep425tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Lib/site-packages/setuptools/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Scripts/easy_install-3.6.exe" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Scripts/easy_install-3.6.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell_cryptobot/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/shell_cryptobot/Scripts/easy_install.exe" afterDir="false" />
-    </list>
+    <list default="true" id="6acc8e73-4a47-4f2e-9bd2-a1e74842c7fa" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +23,8 @@
       <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="68">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -104,6 +80,24 @@
             <path>
               <item name="cryptobot" type="b2602c69:ProjectViewProjectNode" />
               <item name="cryptobot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cryptobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cryptobot" type="462c0819:PsiDirectoryNode" />
+              <item name="shell_cryptobot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cryptobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cryptobot" type="462c0819:PsiDirectoryNode" />
+              <item name="shell_cryptobot" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cryptobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cryptobot" type="462c0819:PsiDirectoryNode" />
+              <item name="shell_cryptobot" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,13 +164,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -190,6 +183,32 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -227,8 +246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
