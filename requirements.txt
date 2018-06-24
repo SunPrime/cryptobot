@@ -1,6 +1,7 @@
 autobahn==18.6.1
 certifi==2018.4.16
 chardet==3.0.4
+client==0.0.1
 idna==2.7
 psycopg2==2.7.5
 requests==2.19.1
